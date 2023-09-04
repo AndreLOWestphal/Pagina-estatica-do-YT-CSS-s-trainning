@@ -1,0 +1,181 @@
+
+@font-face {
+    font-family: Roboto;
+    src: url(/assets/fonts/Roboto-Regular.ttf);
+}
+*{  
+    font-family: Roboto;
+    padding: 0;
+    margin: 0;
+}
+body{
+    margin: 0 0 0 12%;
+    background-color: #fafafa;
+    max-width: 1440px;
+    min-width: 1440px;
+    max-height: 1022px;
+    min-height: 1022px;
+    display:;
+    
+}
+
+.conteiner{
+    background-color: #fff;
+    max-width: 1440px;
+    min-width: 1440px;
+    max-height: 56px;
+    min-height: 56px;
+
+}
+
+.conteiner .conteinermenu{
+    display: flex;
+    flex-flow: nowrap;
+    justify-content: space-between;
+}
+.conteiner .conteinermenu .menu{
+       margin: 0 1.5rem 0 1.5rem;
+       flex-basis: ;
+}
+#menu1{
+    
+    width: 146px;
+    height: 24px;
+    margin-top: 1rem;
+    background-image: url(/assets/images/Left.png);
+}
+#menu2{
+    width: 404px;
+    height: 40px;
+    margin-top: .5rem;
+    border: 1px black;
+    background-image: url(/assets/images/Center.png);
+}
+#menu3{
+        width: 130px;
+    height: 34px;
+    margin-top: .6rem;
+    background-image: url(/assets/images/Right.png);
+}
+#conteiner{
+    display: flex;
+    max-width: 1400px;
+    min-width: 400px;
+
+}
+.conteiner2{
+    background-color: #fafafa;
+    display: block;
+    max-width: 952px;
+    min-width: 952px;
+    max-height: 900px;
+    min-height: 900px;
+    margin: 5.25rem 0 0 4.69rem;
+    row-gap: 1rem;
+}
+.conteiner2 .title{
+    font-size: 1.25rem;
+    margin-top: 1rem;
+}
+.conteiner2 .status{
+    max-width: 902px;
+    min-width: 902px;
+    max-height: 42px;
+    min-height: 42px;
+    background-image: url(/assets/images/Barra\ de\ status\ YT.png);
+    background-size: 902px 42px;
+    margin-top: 1rem;
+}
+.conteiner2 .text{
+    max-width: 902px;
+    min-width: 902px;
+    max-height: 200px;
+    min-height: 200px;
+    background-image: url(/assets/images/text\ video.png);
+    background-size: 902px 200px;
+    margin-top: 1rem;
+}
+.conteiner3{
+    background-color: #fafafa;
+    max-width: 160px;
+    min-width: 160px;
+    max-height: 938px;
+    min-height: 938px;
+    margin: 5.25rem 0 0 1.56rem;
+    row-gap: 1rem;
+    display: grid;
+}
+.conteiner3 #img{
+    align-content: space-between;
+    /*border: 1px solid black;*/
+    max-width: 372px;
+    min-width: 372px;
+    max-height: 90px;
+    min-height: 90px;
+
+}
+.conteiner3 .img1{
+    background-image: url(/assets/images/Video\ \(1\).png);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+.conteiner3 .img2{
+    background-image: url(/assets/images/Video\ \(2\).png);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+.conteiner3 .img3{
+    background-image: url(/assets/images/Video\ \(3\).png);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+.conteiner3 .img4{
+    background-image: url(/assets/images/Video\ \(4\).png);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+.conteiner3 .img5{
+    background-image: url(/assets/images/Video\ \(5\).png);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+.conteiner3 .img6{
+    background-image: url(/assets/images/Video\ \(6\).png);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+.conteiner3 .img7{
+    background-image: url(/assets/images/Video\ \(9\).png);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+.conteiner3 .img8{
+    background-image: url(/assets/images/Video\ \(8\).png);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+.conteiner3 .img9{
+    background-image: url(/assets/images/Video\ \(7\).png);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+/*.conteiner4{
+    background-color: #fafafa;
+    max-width: 196px;
+    min-width: 196px;
+    max-height: 938px;
+    min-height: 938px;
+    margin: 5.25rem 0 0 1rem;
+    row-gap: 1rem;
+    display: grid;
+}
+.conteiner4 #name{
+    font-size: 0.75rem;
+    align-content: space-between;
+    border: 1px solid black;
+    max-width: 160px;
+    min-width: 160px;
+    max-height: 90px;
+    min-height: 90px;
+}*/
